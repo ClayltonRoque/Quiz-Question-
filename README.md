@@ -1,7 +1,7 @@
-# Vue 3 + Vite
+Quis Quesiton usando vue e o Open Trivia DB
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
 
-## Recommended IDE Setup
+![QuisQuestion](https://github.com/ClayltonRoque/Quiz-Question-/assets/92267368/a140295e-dc73-47b6-9279-def2eef0f6ec)
 
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar)
+
+![QuisQuestion2](https://github.com/ClayltonRoque/Quiz-Question-/assets/92267368/3b878ca9-3ecf-4d06-9c21-c6a538af6a9e)
